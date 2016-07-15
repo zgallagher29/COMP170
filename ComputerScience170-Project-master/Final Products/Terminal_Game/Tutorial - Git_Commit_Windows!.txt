@@ -1,0 +1,32 @@
+How to commit to GitHub Repository from Windows (GUI Based) for N00BS.
+Guide Written by Anirrudh Krishnan on April 26th, 2016 
+GitHub Desktop Version: 3.0.17.0
+Minimum OS required is Windows 7
+
+Step 1: Navigate to https://desktop.github.com/ and download GitHub for Desktop. 
+		This is a free program made by the people at GitHub for GitHub. Keep
+		in mind that this will NOT work for BitBucket, which is unfortuantley 
+		what we use in class. 
+Step 2: Install this program. You will be installing both the Desktop App and
+		will automatically install the Git pacakage for windows, which is
+		needed to commit. Open GitHub. Upon opening, you will be asked to Log-in 
+		to your GitHub. Proceed via initial setup. 
+Step 3: Once you are here, there will be nothing open and you will be staring 
+		at a blank screen. There will be a "+" button in the left hand corner. 
+		Click on it, and go to the "Clone" tab. Once in the Clone tab, you will 
+		be looking at all your Repositories AND all the ones that you have been 
+		invited to collaborate. Click on the Repository you would like to clone
+		to your machine, and find the folder that you would like to clone into. 
+		I just cloned into the default folder, C:/User/Documents/GitHub
+Step 4: If you want to commit, what you need to do is copy the folders/files 
+		that you want to commit from wherever they are located. Then, go to the
+		GitHub folder into the project folder and go ahead and paste it. Now, 
+		give the desktop application a few seconds to recognize that there are 
+		new folders/files. They will show up. 
+Step 5: Write a brief description and such about the files you will be uploading,
+		then hit "Commit to Master". Let it commit.
+Step 6: Finally, in the upper right hand corner there will be a "Sync" button. 
+		Click it. Let it sync. 
+Step 7: MAKE SURE IT UPLOADED!! Open GitHub in a Web Browser and navigate to the 
+		project folder, maksing sure your work uploaded! 
+		

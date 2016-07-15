@@ -1,0 +1,5 @@
+Which direction do you wish to go in?
+Press ‘W’ for North.
+Press 'S' for South.
+Press ‘A’  to move West.
+Press ‘D’ to move East.

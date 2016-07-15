@@ -1,0 +1,11 @@
+Welcome to Sarz++.
+
+The year is now 4052. In the year 4000, scientists predicted that Earth’s resources would be exhausted within the next hundred years.
+
+They were correct.
+
+As time went on, they hand picked a few people to try to travel to other planets to see if those environments were suitable.
+You were one of the chosen ones, and you have been sent to Sarz, seeing as it is the most promising habitual areas.
+You are looking for data to send back to Earth, specifically for one source of water and three edible plants.
+
+Please tell us your name.

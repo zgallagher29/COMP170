@@ -1,0 +1,9 @@
+You have the choice between taking two items to help you on your journey: 
+Medicine will help you increase your Health Points by 300.
+The Machete will decrease the damage taken by 50%.
+You have to choose something! Try again.
+You have landed on Sarz, what direction would you like to go? 
+You have been attacked! What will you do?
+You have found some trees! YAY! Collecting a sample for Earth now. 
+You have found water! YAY! Collecting a sample for Earth now. 
+You have found some plants! YAY! Collecting a sample for Earth now. 

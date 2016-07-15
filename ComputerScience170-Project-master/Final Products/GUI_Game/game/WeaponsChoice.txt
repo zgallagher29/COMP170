@@ -1,0 +1,5 @@
+Please enter:
+1 to learn about the Medicine
+2 to select the Medicine
+3 to learn about the Machete
+4 to select the Machete
